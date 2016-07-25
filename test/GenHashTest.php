@@ -1,5 +1,6 @@
 <?php
 
+use GenHash\GenHash;
 use PHPUnit\Framework\TestCase;
 
 class GenHashTest extends TestCase
